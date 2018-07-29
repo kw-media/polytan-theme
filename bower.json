@@ -1,0 +1,31 @@
+{
+  "name": "polytan",
+  "version": "0.0.1",
+  "homepage": "https://www.polytan.com",
+  "authors": [
+    "Michael Walter <m.walter@app-solution.online>"
+  ],
+  "description": "Polytan is a Bootstrap and underscores based WordPress theme framework.",
+  "moduleType": "globals",
+  "main": [
+    "sass/theme.scss"
+  ],
+  "keywords": [
+    "bootstrap",
+    "underscores",
+    "wordpress",
+    "_s",
+    "sass"
+  ],
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "_source": "https://github.com/kw-media/polytan-theme.git",
+  "_target": "~0.0.1",
+  "_originalSource": "polytan"
+}
